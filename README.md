@@ -20,7 +20,10 @@ Tools: VS Code
 
 <h2>**🎯 Project Objective**</h2>
 To develop a reliable system that simplifies criminal record management while ensuring accuracy, data consistency, and faster access to information.
+
+<h2>Output</h2>
 <img width="1925" height="1022" alt="Screenshot 2026-01-31 154842" src="https://github.com/user-attachments/assets/84f8fd31-e368-4aca-b279-cb774e1f4efa" />
+
 
 
 
